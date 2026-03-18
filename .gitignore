@@ -2,5 +2,8 @@ venv/
 .env
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
+*.log
+agent_log.txt
+server/pdfs/
+*.pdf
+debug_page.html
