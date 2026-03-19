@@ -2,6 +2,7 @@
 
 # 🎯 CareerLens
 ### AI-Powered Job Match System
+https://streamable.com/wcn65n  ---- demo vedio link
 
 
 ## 📌 Problem Statement
